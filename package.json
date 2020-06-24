@@ -8,7 +8,7 @@
     "url": "https://github.com/porkchop"
   },
   "dependencies": {
-    "digibyte-message": "git://github.com/digicontributer/bitcore-message.git#9d9c8ad30158db25f683e2dee746a14a9d7ec8a0"
+    "digibyte-message": "git://github.com/Squiji/bitcore-message.git#9d9c8ad30158db25f683e2dee746a14a9d7ec8a0"
   },
   "devDependencies": {
     "should": "3.3.1",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/DigiByte-Core/digiid-js"
+    "url": "https://github.com/Squiji/digiid-js"
   },
   "main": "index",
   "scripts": {
