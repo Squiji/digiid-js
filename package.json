@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/digibyte/digiid-js"
+    "url": "https://github.com/Digibyte-Core/digiid-js"
   },
   "main": "index",
   "scripts": {
